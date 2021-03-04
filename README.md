@@ -10,11 +10,11 @@ Implementatin Details:
 
 2. Grouping multiple CSS elements as one where some elements have the same styling and under the same conditon
 
-3. Added alt attributes on image 
+3. Added alt attributes on images
 
 4. Renamed title
 
 
 
 Screenshoot
-![Alt Screenshoot](Homework-week-1/images/01-html-css-git-homework-demo.jpg?raw=true "Title")
+![ Screenshoot](./images/screenshoot.png)

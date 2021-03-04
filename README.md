@@ -1,10 +1,24 @@
 # Homework-week-1
 
-overview:
+# Overview:
+
 The purpose of the assignment was to modify and refactor the html file with semantic elements to make it more accessible
 
 
-Implementatin Details:
+
+# How to install
+
+- Clone the repository
+
+Git clone https://github.com/SusanSu123/Homework-week-1.git
+
+- Go to index.html
+
+- Open with your favarite browser
+
+
+
+# Implementatin Details:
 
 1. Using semantic HTML elements: header,section, aside, footer
 
@@ -16,5 +30,6 @@ Implementatin Details:
 
 
 
-Screenshoot
-![ Screenshoot](./images/screenshoot.png)
+# Screenshoot
+
+![Screenshoot](./Assets/images/screenshoot.png)

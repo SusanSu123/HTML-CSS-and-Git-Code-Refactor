@@ -14,7 +14,7 @@ Git clone https://github.com/SusanSu123/Homework-week-1.git
 
 - Go to index.html
 
-- Open with your favarite browser
+- Open with your favorite browser
 
 
 

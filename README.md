@@ -8,9 +8,8 @@ The purpose of the assignment was to modify and refactor the html file with sema
 
 # How to install
 
-- Clone the repository
 
-Git clone https://github.com/SusanSu123/Homework-week-1.git
+- Git clone repository https://github.com/SusanSu123/Homework-week-1.git
 
 - Go to index.html
 

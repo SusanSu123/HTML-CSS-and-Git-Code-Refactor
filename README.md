@@ -1,5 +1,3 @@
-# Homework-week-1
-
 # Overview:
 
 The purpose of the assignment was to modify and refactor the html file with semantic elements to make it more accessible
@@ -9,7 +7,7 @@ The purpose of the assignment was to modify and refactor the html file with sema
 # How to install
 
 
-- Git clone repository https://github.com/SusanSu123/Homework-week-1.git
+- Git clone repository https://github.com/SusanSu123/HTML-CSS-and-Git-Code-Refactor.git
 
 - Go to index.html
 
